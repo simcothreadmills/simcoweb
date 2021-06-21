@@ -21,10 +21,6 @@ const Index = () => (
           <p className="text-xl lg:text-2xl mt-6 font-light">
             Trade with trust
           </p>
-          <p className="mt-8 md:mt-12">
-            <Button size="lg">Get Started</Button>
-          </p>
-          <p className="mt-4 text-gray-600">Sed fermentum felis ut cursu</p>
         </div>
         <div className="lg:w-1/2">
           <HeroImage />
