@@ -23,7 +23,7 @@ const Index = () => (
           </p>
         </div>
         <div className="lg:w-1/2">
-          <HeroImage />
+          
         </div>
       </div>
     </section>
